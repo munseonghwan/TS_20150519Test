@@ -23,6 +23,7 @@ namespace TestGIT
             label2.Text = "HaHaLong";
             label3.Text = "seowoong";
             label4.Text = "add ";
+            label5.Text = "add Lable5";
             //Melong//
             //come back
         }
