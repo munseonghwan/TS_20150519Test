@@ -19,9 +19,7 @@ namespace TestGIT
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            label1.Text = "Melong";
-            label2.Text = "HaHaLong";
-            label3.Text = "seowoong";
+           
             label4.Text = "add ";
             label5.Text = "add Lable5";
             label6.Text = "add Lable6";
